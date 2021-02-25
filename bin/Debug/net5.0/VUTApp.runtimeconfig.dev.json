@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\soshi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\soshi\\.nuget\\packages"
+    ]
+  }
+}
